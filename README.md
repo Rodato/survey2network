@@ -42,7 +42,7 @@ Ideal para **estudiantes, docentes y analistas** que quieren ir de la recolecci�
 
 ## Demo online
 ¿Quieres probar antes de clonar?  
-👉 **[Demo en shinyapps.io](https://owxbz2-daniel-otero.shinyapps.io/Survey2Network/)** <br>
+👉 **[Demo en shinyapps.io](https://owxbz2-daniel-otero.shinyapps.io/DataTranformer/)** <br>
 *(puedes cambiar la URL si despliegas tu propia instancia)*
 
 ## Requisitos
